@@ -1,6 +1,6 @@
 # fb_ssl_pinning
 
-[Facebook V210](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-210-0-0-43-119-release/facebook-210-0-0-43-119-5-android-apk-download/download/)
+[Facebook V210](https://www.apkmirror.com/apk/facebook-2/facebook/facebook-210-0-0-43-119-release/)
 
 Make sure you have a rooted android device
 
